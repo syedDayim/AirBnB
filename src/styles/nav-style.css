@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    /* border: 2px solid red; */
+    height: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.11);
+
+}
+
+.nav-logo{
+    width: 82.0px;
+    height: 25.35px;
+    margin-top: 13px;
+    margin-left: 30px;
+}
